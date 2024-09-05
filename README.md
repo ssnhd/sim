@@ -4,7 +4,7 @@
 
 ## 卡费
 - 🇺🇸美国 Ultra Mobile：229 元
-- 🇬🇧英国 giffgaff：59 元
+- 🇬🇧英国 giffgaff：69 元
 - 🇳🇿新西兰 Skinny：159 元
 
 ## 资费
