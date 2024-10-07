@@ -2,11 +2,6 @@
 
 购买：https://t.me/GVStore
 
-## 卡费
-- 🇺🇸美国 Ultra Mobile：229 元
-- 🇬🇧英国 giffgaff：69 元
-- 🇳🇿新西兰 One NZ：159 元
-
 ## 资费
 
 |   |  🇺🇸美国 | 🇬🇧英国| 🇳🇿新西兰|
