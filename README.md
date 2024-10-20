@@ -1,4 +1,4 @@
-# 美国 Ultra Mobile PayGo 英国 giffgaff 新西兰 Skinny One NZ 实体 SIM 卡资费介绍
+# 美国 Ultra Mobile PayGo 英国 giffgaff 新西兰 Skinny One NZ 实体 SIM 卡资费
 
 购买：https://t.me/GVStore
 
