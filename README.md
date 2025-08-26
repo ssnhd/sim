@@ -41,11 +41,11 @@
 
 ## Apple ID
 
-- 各国 Apple ID——49 元
-- 🇺🇸美区礼品卡 5 美元——55 元
-- 🇺🇸美区礼品卡 10 美元——99 元
-- 🇹🇷土区礼品卡100 里拉——39 元
-- 🇹🇷土区礼品卡200 里拉——75 元
+- 美国、日本、香港、韩国等 Apple ID——49 元
+- 🇺🇸美区礼品卡 5 美元——55 元
+- 🇺🇸美区礼品卡 10 美元——99 元
+- 🇹🇷土区礼品卡100 里拉——39 元
+- 🇹🇷土区礼品卡200 里拉——75 元
 
 ---
 
@@ -58,9 +58,9 @@
 
 ## Gmail
 
-- 📧Gmail 随机——19 元
-- 📧Gmail 代注册——99 元
-- 📧Gmail 绝版纯数字靓号: [点击这里](https://docs.google.com/spreadsheets/d/1XLwtSET7Nv5cLUu13LZouxWMmAropJTnt8pVvx70r70/edit?gid=0#gid=0)
+- Gmail 随机号——19 元
+- Gmail 代注册——99 元
+- Gmail 绝版纯数字靓号: [点击这里](https://docs.google.com/spreadsheets/d/1XLwtSET7Nv5cLUu13LZouxWMmAropJTnt8pVvx70r70/edit?gid=0#gid=0)
 
 ---
 
