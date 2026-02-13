@@ -5,7 +5,8 @@
 - TG 客服: https://t.me/simgv （如您 TG 无法私信请发邮件）
 - 邮件客服: ahezuo@gmail.com
 - 官方 TG 频道：https://t.me/GVStoresim
-注：原万人频道频 gvstore 被 TG 限制，所以上面为新建频道
+
+注：原万人频道 gvstore 被 TG 限制，所以上面为新建频道
 
 ---
 
