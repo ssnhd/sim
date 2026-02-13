@@ -4,7 +4,7 @@
 
 - TG 客服: https://t.me/simgv （如您 TG 无法私信请发邮件）
 - 邮件客服: ahezuo@gmail.com
-- 官方 TG 频道：https://t.me/GVStore
+- 官方 TG 频道：https://t.me/GVStoresim
 
 ---
 
