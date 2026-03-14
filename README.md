@@ -2,9 +2,10 @@
 
 ## 客服
 
-- TG 客服: https://t.me/simgv （如 TG 无法私信请发邮件）
-- 邮件客服: ahezuo@gmail.com
-- TG 频道：https://t.me/gvstoresim
+- 关注 TG 频道查看价格：https://t.me/gvstoresim
+- TG 客服（若无法私信请发邮件）: https://t.me/simgv 
+- 邮件: ahezuo@gmail.com
+
 
 
 ## Google Voice
@@ -17,7 +18,9 @@ GV 是 Google 推出的虚拟电话号码
 - 单永久号（在自己谷歌里）
 - 双永久号（在自己谷歌里）
 
-## 实体 SIM 卡资费和价格
+## 实体 SIM 卡
+
+适合注册接码，非常方便。
 
 |   |  🇬🇧英国 giffgaff|🇺🇸美国 Ultra Mobile T-Mobile| 
 |  ----  | ----  |----  |
@@ -44,8 +47,8 @@ GV 是 Google 推出的虚拟电话号码
 
 ## Telegram
 
-- TG 成品号包含最近 2 月、超 6 个月、超 12 个月。
-- TG 年会员
+- TG 成品号：最近 2 月、超 6 月、超 12 月老号。
+- 支持开通年会员
 
 
 
@@ -57,7 +60,7 @@ GV 是 Google 推出的虚拟电话号码
 
 
 
-## 𝕏、V2EX
+## 其他
 
 - 𝕏/Twitter 成品号
 - V2EX 邀请码
