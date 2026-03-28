@@ -2,11 +2,11 @@
 
 ## 客服
 
-- 关注 TG 频道查看价格：https://t.me/gvstoresim
-- TG 客服（若无法私信请发邮件）: https://t.me/simgv 
-- 邮件: ahezuo@gmail.com
-
-
+- 关注 Telegram 频道查看价格：https://t.me/gvstoresim
+- Telegram 客服1: https://t.me/simgv
+- Telegram 客服2: https://t.me/gvstore_bot (仅限单向)
+- Google Chat 客服: https://chat.google.com (支持 App)发起新聊天 ahezuo@gmail.com
+- Email 客服: ahezuo@gmail.com
 
 ## Google Voice
 
@@ -22,7 +22,7 @@ GV 是 Google 推出的虚拟电话号码
 
 适合注册接码，非常方便。
 
-|   |  🇬🇧英国 giffgaff|🇺🇸美国 Ultra Mobile T-Mobile| 
+|   |  🇬🇧英国 giffgaff|🇺🇸美国 Ultra Mobile / T-Mobile| 
 |  ----  | ----  |----  |
 |  **月租**  | 免费 |3 美元 | 
 |  **收短信**|   免费  |0.1 美元/条   | 
@@ -35,7 +35,6 @@ GV 是 Google 推出的虚拟电话号码
 |  **充值** |  官网用信用卡充值（或代充）  | 官网用信用卡充值（或代充） |
 |**保号**|每 6 个月内发条短信|正常交月租|
 |**实名** | 非实名 | 非实名 | 
-|**特色** |便宜，保号方便|注册美区 PayPal、GV 必须美卡|
 
 ## Apple ID
 
@@ -47,7 +46,7 @@ GV 是 Google 推出的虚拟电话号码
 
 ## Telegram
 
-- TG 成品号：最近 2 月、超 6 月、超 12 月老号。
+- 成品号：有最近 2 月、超 6 月、超 12 月的老号。
 - 支持开通年会员
 
 
