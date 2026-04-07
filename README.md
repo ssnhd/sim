@@ -5,10 +5,10 @@
 - 查看价格：https://t.me/gvstoresim
 - Telegram 客服1: https://t.me/simgv
 - Telegram 客服2: https://t.me/gvstore_bot (仅限单向)
-- Google Chat 客服: https://chat.google.com 发起新聊天 ahezuo@gmail.com
+- Google Chat 客服: 发起新聊天 ahezuo@gmail.com
 - Email 客服: ahezuo@gmail.com
 
-注：如果没有 Telegram，推荐使用 Google Chat，网页版或 App 都可以。
+注：如果没有 Telegram，推荐使用 [Google Chat](https://chat.google.com)，网页版或 App 都可以。
 
 ## Google Voice
 
