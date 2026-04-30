@@ -2,6 +2,8 @@
 
 ## 客服
 
+工作时间 9:00-24:00，其他时间请留言。
+
 | 平台 | 客服 ID | 优点 |
 |---|---|---|
 | **Telegram** | https://t.me/simgv | 最方便，推荐 |
@@ -9,8 +11,7 @@
 | **[Google Chat](https://chat.google.com/)** | ahezuo@gmail.com | Google 出品，支持网页和 App |
 | **XChat** | igvsim | 𝕏 出品，目前仅支持 iOS 端 |
 | **Email** | ahezuo@gmail.com | 以上都没有，请发邮件 |
-
-关注 TG 频道获取最新更新：https://t.me/gvstoresim
+|**Telegram 频道**|https://t.me/gvstoresim|查看价格|
 
 ## Google Voice
 
@@ -31,7 +32,7 @@ GV 是 Google 推出的虚拟电话号码
 |  **收短信**|   免费  |0.1 美元/条   | 
 |  **发短信** |   0.3 英镑/条 |0.5 美元/条（Wi-Fi Calling 下 0.1 美元）  |
 | **接打电话** | 1 英镑/分钟  |3.59 美元/分钟（Wi-Fi Calling 下 0.1 美元）   |
-|**流量**|0.2 英镑/MB（或购买套餐）||
+|**流量**|0.2 英镑/MB（或购买套餐）|/|
 |  **eSIM** |   支持  |  支持  |
 |  **充值** | 信用卡（VISA/Master）充值，支持代充  | 信用卡（VISA/Master）充值，支持代充  |
 |**保号**|每180天内发条短信|交月租|
@@ -39,26 +40,21 @@ GV 是 Google 推出的虚拟电话号码
 
 ## Apple ID
 
-- 美国、日本、香港、韩国等国 Apple ID
-- 🇺🇸美区礼品卡
-- 🇹🇷土区礼品卡
-
-
+- 美国、日本、香港、韩国等
+- 美区、土区礼品卡
 
 ## Telegram
 
-- 成品号：有最近 2 月、超 6 月、超 12 月的老号。
-- 支持开通年会员
-
-
+- 成品号：近 2 个月
+- 成品号：超 6 个月
+- 成品号：超 12 个月
+- 开通年会员
 
 ## Gmail
 
 - 随机号
 - 代注册
 - 绝版纯数字靓号: [点击这里](https://docs.google.com/spreadsheets/d/1XLwtSET7Nv5cLUu13LZouxWMmAropJTnt8pVvx70r70/edit?gid=0#gid=0)
-
-
 
 ## 其他
 
