@@ -2,14 +2,15 @@
 
 ## 客服
 
-关注 TG 频道获取最新消息：https://t.me/gvstoresim
+| 平台 | 客服 ID | 优点 |
+|---|---|---|
+| **Telegram** | https://t.me/simgv | 最方便，推荐 |
+| **Telegram 机器人**| https://t.me/gvstore_bot | 若 TG 无法私信，请联系这个 |
+| **[Google Chat](https://chat.google.com/)** | ahezuo@gmail.com | Google 出品，支持网页和 App |
+| **XChat** | igvsim | 𝕏 出品，目前仅支持 iOS 端 |
+| **Email** | ahezuo@gmail.com | 以上都没有，请发邮件 |
 
-- Telegram 客服1: https://t.me/simgv
-- Telegram 客服2: https://t.me/gvstore_bot (无法私信的联系这个)
-- Google Chat 客服: ahezuo@gmail.com
-- Email 客服: ahezuo@gmail.com
-
-注：如果没有 Telegram，推荐使用 [Google Chat](https://chat.google.com)（网页或 App 都支持）
+关注 TG 频道获取最新更新：https://t.me/gvstoresim
 
 ## Google Voice
 
