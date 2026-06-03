@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **Telegram** | https://t.me/simgv | 最方便 | ★★★★★ |
 | **Telegram 机器人**| https://t.me/gvstore_bot | 若 TG 无法私信，联系这个 | ★★★★ |
-| **Google Chat** | ahezuo@gmail.com | 若没 TG 推荐这个，支持[网页和 App](https://chat.google.com) | ★★★★ |
+| **Google Chat** | ahezuo@gmail.com | 优先用 [App](https://apps.apple.com/us/app/google-chat/id1163852619)，网页版可能会忘记消息 | ★★★★ |
 | **Email** | ahezuo@gmail.com | 及时性偏低 | ★★★ |
 |**Telegram 频道**|https://t.me/gvstoresim|查看价格，网页版支持预览|  |
 
