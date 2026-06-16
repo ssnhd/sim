@@ -4,13 +4,13 @@
 
 工作时间 9:00-24:00，其他时间请留言。
 
-| 平台 | 客服 ID | 特点 | 推荐|
+| 平台 | 客服 ID | 备注 | 推荐|
 |---|---|---|---|
 | **Telegram** | https://t.me/simgv | 最方便 | ★★★★★ |
-| **Telegram 机器人**| https://t.me/gvstore_bot | 若 TG 无法私信，联系这个 | ★★★★ |
-| **Google Chat** | ahezuo@gmail.com | 支持网页和 [App](https://apps.apple.com/us/app/google-chat/id1163852619)，如果未收到回复说明被谷歌分到垃圾消息，等待即可我们回复，或者发邮件联系我们 | ★★★★ |
+| **Telegram 双向**| https://t.me/gvstore_bot | 若 TG 无法私信，联系这个 | ★★★★ |
+| **Google Chat** | ahezuo@gmail.com | 支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619) | ★★★★ |
 | **Email** | ahezuo@gmail.com | 沟通便利性偏低 | ★★★ |
-|**Telegram 频道**|https://t.me/gvstoresim|查看价格，网页版支持预览|  |
+|**TG 频道查价**|https://t.me/gvstoresim|网页版支持预览|  |
 
 ## Google Voice
 
