@@ -4,19 +4,19 @@
 
 工作时间 9:00-24:00，其他时间请留言。
 
-| 平台 | 客服 ID | 备注 | 推荐|
-|---|---|---|---|
-| **Telegram** | https://t.me/simgv | 最方便 | ★★★★★ |
-| **Telegram 双向**| https://t.me/gvstore_bot | 若 TG 无法私信，联系这个 | ★★★★ |
-| **Google Chat** | ahezuo@gmail.com | 支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619) | ★★★★ |
-| **Email** | ahezuo@gmail.com | 沟通便利性偏低 | ★★★ |
-|**TG 频道查价**|https://t.me/gvstoresim|网页版支持预览|  |
+| 平台 | 客服 ID | 特点 | 
+|---|---|---|
+| **Telegram** | https://t.me/simgv | 最方便 | 
+| **Telegram 双向**| https://t.me/gvstore_bot | TG 无法私信时联系这个 | 
+| **Google Chat** | ahezuo@gmail.com | 谷歌出品，支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619)（请耐心等待回复） | 
+| **Email** | ahezuo@gmail.com | 传统方式 | 
+|**TG 频道查价**|https://t.me/gvstoresim|网页版支持预览|  
 
 ## Google Voice
 
 GV 是 Google 推出的虚拟电话号码。每 3 个月内打个美国电话（例如微软客服，需接通进行保号），普通号可以买 2 个互相打电话保号最方便，或者选永久号。
 
-- 号码随机（需保号，送谷歌号）
+- 普通号（需保号，送谷歌号）
 - 2个永久号（不需要保号，绝版，送谷歌号）
 - 3个永久号（不需要保号，绝版，送谷歌号）
 - 4个永久号（不需要保号，绝版，送谷歌号）
