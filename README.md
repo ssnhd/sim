@@ -25,7 +25,7 @@ GV 是 Google 推出的虚拟电话号码。每 3 个月内打个美国电话（
 
 适合注册接码，非常方便。
 
-|   |  🇬🇧英国 giffgaff|🇺🇸美国 T-Mobile/Ultra Mobile| 🇳🇿新西兰 Skinny|
+|   |  🇬🇧英国 giffgaff|🇺🇸美国 T-Mobile/Ultra Mobile| 🇳🇿新西兰 Skinny（暂时无货）|
 |  ----  | ----  |----  |----  |
 |  **月租**  | 免费 |3 美元 | 免费|
 |  **收短信**|   免费  |0.1 美元/条   |免费 |
