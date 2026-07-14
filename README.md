@@ -4,15 +4,13 @@
 
 ## 客服
 
-工作时间 9:00-24:00，其他时间请留言。
-
 | 平台 | 客服 ID | 特点 | 
 |---|---|---|
-| **Telegram** | https://t.me/simgv | 最方便 | 
-| **Telegram 双向**| https://t.me/gvstore_bot | TG 无法私信时联系这个 | 
-| **Google Chat** | ahezuo@gmail.com | 谷歌出品，支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619)（请耐心等待回复） | 
-| **Email** | ahezuo@gmail.com | 传统方式 | 
-|**TG 频道查价**|https://t.me/gvstoresim|网页版支持预览|  
+| **Telegram** | https://t.me/simgv 或 TG 里搜 @simgv | 最方便 | 
+| **Telegram 双向**| https://t.me/gvstore_bot 或 TG 里搜 @gvstore_bot | 无法私信时联系这个 | 
+| **Google Chat** | ahezuo@gmail.com | 谷歌出品支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619) | 
+| **Email** | ahezuo@gmail.com | 稳定 | 
+|**TG 频道查价**|https://t.me/gvstoresim 或 TG 里搜 @gvstoresim |网页版支持预览|  
 
 ## Google Voice
 
@@ -21,7 +19,6 @@ GV 是 Google 推出的虚拟电话号码。每 3 个月内打个美国电话（
 - 普通号（需保号，送谷歌号）
 - 2个永久号（不需要保号，绝版，送谷歌号）
 - 3个永久号（不需要保号，绝版，送谷歌号）
-- 4个永久号（不需要保号，绝版，送谷歌号）
 
 ## 实体 SIM 卡
 
