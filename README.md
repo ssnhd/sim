@@ -9,7 +9,7 @@
 | **Telegram** | https://t.me/simgv 或 TG 里搜 @simgv | 最方便 | 
 | **Telegram 双向**| https://t.me/gvstore_bot 或 TG 里搜 @gvstore_bot | 无法私信时联系这个 | 
 | **Google Chat** | ahezuo@gmail.com | 谷歌出品支持[网页](https://chat.google.com/)和 [App](https://apps.apple.com/us/app/google-chat/id1163852619) | 
-| **Email** | ahezuo@gmail.com | 稳定 | 
+| **Email** | ahezuo@gmail.com | 不要用无法收件的邮箱 | 
 |**TG 频道查价**|https://t.me/gvstoresim 或 TG 里搜 @gvstoresim |网页版支持预览|  
 
 ## Google Voice
