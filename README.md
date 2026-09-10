@@ -20,7 +20,7 @@ GV 是 Google 推出的虚拟电话号码。每 3 个月内打个美国电话（
 
 ## 实体 SIM 卡
 
-适合注册接码，非常方便。
+除了下面四种卡，还有新西兰 one NZ、英国 CMLink，详情请联系上方客服或 TG 频道。
 
 |   |  🇬🇧英国 giffgaff|🇺🇸美国 T-Mobile/Ultra Mobile| 🇳🇿新西兰 Skinny|
 |  ----  | ----  |----  |----  |
