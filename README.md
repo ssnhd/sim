@@ -6,11 +6,11 @@
 
 | 平台 | 客服 ID | 备注| 
 |---|---|---|
-| **Telegram** | https://t.me/simgv 或 TG 里搜 `@simgv` | | 
-| **Telegram 双向**| https://t.me/gvstore_bot 或 TG 里搜 `@gvstore_bot` || 
+| **Telegram** | https://t.me/simgv 或 TG 里搜 @simgv | | 
+| **Telegram 双向**| https://t.me/gvstore_bot 或 TG 里搜 @gvstore_bot || 
 |**Google Chat**|ahezuo@gmail.com|[谷歌](https://chat.google.com/)推出的通讯软件|
 | **Email** | ahezuo@gmail.com | | 
-|**TG 频道**|https://t.me/gvstoresim 或 TG 里搜 `@gvstoresim` |打开链接点击 `Preview channel` 可网页预览价格| 
+|**TG 频道**|https://t.me/gvstoresim 或 TG 里搜 @gvstoresim |打开链接点击 Preview channel 可网页预览价格| 
 
 ## Google Voice
 
